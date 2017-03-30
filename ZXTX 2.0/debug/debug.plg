@@ -1,0 +1,52 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+F:\快盘\我的应用\ZXFJ\1.4\debug\debug.uvproj
+Project File Date:  07/07/2013
+
+<h2>Output:</h2>
+Load "..\\testhex\\ZXFJ_dbg.AXF" 
+_____^
+*** error 56: cannot open file
+Load "..\\testhex\\ZXFJ_dbg.ELF" 
+No Algorithm found for: 00000000H - 000042D7H
+No Algorithm found for: 000067A4H - 000068A3H
+Erase skipped!
+Load "..\\testhex\\ZXFJ_dbg.ELF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "..\\testhex\\ZXFJ_dbg.ELF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "..\\testhex\\ZXFJ_dbg.ELF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "..\\testhex\\ZXFJ_dbg.ELF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "..\\testhex\\ZXFJ_dbg.ELF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Target 1'
+compiling debug.c...
+--- Error: failed to execute 'arm-none-eabi-gcc'
+Target not created
+Load "..\\testhex\\ZXFJ_dbg.ELF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "..\\testhex\\ZXFJ_dbg.ELF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "..\\testhex\\ZXFJ_dbg.ELF" 
+Erase Done.
+Programming Done.
+Verify OK.

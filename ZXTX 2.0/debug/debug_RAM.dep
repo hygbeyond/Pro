@@ -1,0 +1,4 @@
+Dependencies for Project 'debug', Target 'RAM': (DO NOT MODIFY !)
+F (../app/debug.c)(0x55B73BBD)(-c -mcpu=cortex-m3 -gdwarf-2 -MD -Wall -O -mapcs-frame -mthumb-interwork -Ie:/Keil/ARM/CMSIS/Include -Ie:/Keil/ARM/Inc/NXP/LPC177x_8x -o ../obj/debug.o)
+F (..\app\main.c)(0x55B74D3B)(-c -mcpu=cortex-m3 -gdwarf-2 -MD -Wall -O -mapcs-frame -mthumb-interwork -Ie:/Keil/ARM/CMSIS/Include -Ie:/Keil/ARM/Inc/NXP/LPC177x_8x -o ../obj/main.o)
+F (..\app\shell.c)(0x53BA6EB8)(-c -mcpu=cortex-m3 -gdwarf-2 -MD -Wall -O -mapcs-frame -mthumb-interwork -Ie:/Keil/ARM/CMSIS/Include -Ie:/Keil/ARM/Inc/NXP/LPC177x_8x -o ../obj/shell.o)

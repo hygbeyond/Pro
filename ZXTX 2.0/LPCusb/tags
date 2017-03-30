@@ -1,0 +1,256 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+AP_CLK	.\inc\usbhw_lpc.h	99;"	d
+ASSERT	.\inc\usbdebug.h	38;"	d
+ASSERT	.\inc\usbdebug.h	41;"	d
+BOOL	.\inc\type.h	/^typedef unsigned int   BOOL;$/;"	t
+BTSTF	.\inc\usbhw_lpc.h	139;"	d
+BYTE	.\inc\type.h	/^typedef unsigned char  BYTE;$/;"	t
+B_OVRN	.\inc\usbhw_lpc.h	138;"	d
+CCEMTY	.\inc\usbhw_lpc.h	56;"	d
+CDFULL	.\inc\usbhw_lpc.h	57;"	d
+CMD_DEV_CONFIG	.\inc\usbhw_lpc.h	77;"	d
+CMD_DEV_GET_ERROR_CODE	.\inc\usbhw_lpc.h	82;"	d
+CMD_DEV_READ_CUR_FRAME_NR	.\inc\usbhw_lpc.h	79;"	d
+CMD_DEV_READ_ERROR_STATUS	.\inc\usbhw_lpc.h	83;"	d
+CMD_DEV_READ_TEST_REG	.\inc\usbhw_lpc.h	80;"	d
+CMD_DEV_SET_ADDRESS	.\inc\usbhw_lpc.h	76;"	d
+CMD_DEV_SET_MODE	.\inc\usbhw_lpc.h	78;"	d
+CMD_DEV_STATUS	.\inc\usbhw_lpc.h	81;"	d
+CMD_EP_CLEAR_BUFFER	.\inc\usbhw_lpc.h	88;"	d
+CMD_EP_SELECT	.\inc\usbhw_lpc.h	85;"	d
+CMD_EP_SELECT_CLEAR	.\inc\usbhw_lpc.h	86;"	d
+CMD_EP_SET_STATUS	.\inc\usbhw_lpc.h	87;"	d
+CMD_EP_VALIDATE_BUFFER	.\inc\usbhw_lpc.h	89;"	d
+CON	.\inc\usbhw_lpc.h	108;"	d
+CONF_DESC_bConfigurationValue	.\src\usbstdreq.c	63;"	d	file:
+CONF_DESC_bmAttributes	.\src\usbstdreq.c	64;"	d	file:
+CONF_DESC_wTotalLength	.\src\usbstdreq.c	62;"	d	file:
+CONF_DEVICE	.\inc\usbhw_lpc.h	96;"	d
+CON_CH	.\inc\usbhw_lpc.h	109;"	d
+DBG	.\inc\usbdebug.h	37;"	d
+DBG	.\inc\usbdebug.h	40;"	d
+DCRC	.\inc\usbhw_lpc.h	135;"	d
+DEBUG_LED_INIT	.\src\usbhw_lpc.c	79;"	d	file:
+DEBUG_LED_INIT	.\src\usbhw_lpc.c	81;"	d	file:
+DEBUG_LED_OFF	.\src\usbhw_lpc.c	78;"	d	file:
+DEBUG_LED_OFF	.\src\usbhw_lpc.c	83;"	d	file:
+DEBUG_LED_ON	.\src\usbhw_lpc.c	77;"	d	file:
+DEBUG_LED_ON	.\src\usbhw_lpc.c	82;"	d	file:
+DESC_CONFIGURATION	.\inc\usbstruct.h	105;"	d
+DESC_DEVICE	.\inc\usbstruct.h	104;"	d
+DESC_DEVICE_QUALIFIER	.\inc\usbstruct.h	109;"	d
+DESC_ENDPOINT	.\inc\usbstruct.h	108;"	d
+DESC_HID_HID	.\inc\usbstruct.h	113;"	d
+DESC_HID_PHYSICAL	.\inc\usbstruct.h	115;"	d
+DESC_HID_REPORT	.\inc\usbstruct.h	114;"	d
+DESC_INTERFACE	.\inc\usbstruct.h	107;"	d
+DESC_INTERFACE_POWER	.\inc\usbstruct.h	111;"	d
+DESC_OTHER_SPEED	.\inc\usbstruct.h	110;"	d
+DESC_STRING	.\inc\usbstruct.h	106;"	d
+DESC_bDescriptorType	.\src\usbstdreq.c	59;"	d	file:
+DESC_bLength	.\src\usbstdreq.c	58;"	d	file:
+DEV_ADDR	.\inc\usbhw_lpc.h	92;"	d
+DEV_EN	.\inc\usbhw_lpc.h	93;"	d
+DEV_STAT	.\inc\usbhw_lpc.h	55;"	d
+DEV_STATUS_CONNECT	.\inc\usbapi.h	55;"	d
+DEV_STATUS_RESET	.\inc\usbapi.h	57;"	d
+DEV_STATUS_SUSPEND	.\inc\usbapi.h	56;"	d
+DISABLE	.\inc\type.h	/^typedef enum {DISABLE = 0, ENABLE = !DISABLE} FunctionalState;$/;"	e	enum:__anon2
+DV	.\inc\usbhw_lpc.h	66;"	d
+DWORD	.\inc\type.h	/^typedef unsigned long  DWORD;$/;"	t
+DataIn	.\src\usbcontrol.c	/^static void DataIn(void)$/;"	f	file:
+ENABLE	.\inc\type.h	/^typedef enum {DISABLE = 0, ENABLE = !DISABLE} FunctionalState;$/;"	e	enum:__anon2
+ENDP_DESC_bEndpointAddress	.\src\usbstdreq.c	70;"	d	file:
+ENDP_DESC_wMaxPacketSize	.\src\usbstdreq.c	71;"	d	file:
+EN_USB_BITS	.\inc\usbhw_lpc.h	49;"	d
+EOP	.\inc\usbhw_lpc.h	137;"	d
+EP2IDX	.\src\usbhw_lpc.c	94;"	d	file:
+EPSTAT_B1FULL	.\inc\usbhw_lpc.h	123;"	d
+EPSTAT_B2FULL	.\inc\usbhw_lpc.h	124;"	d
+EPSTAT_EPN	.\inc\usbhw_lpc.h	122;"	d
+EPSTAT_FE	.\inc\usbhw_lpc.h	118;"	d
+EPSTAT_PO	.\inc\usbhw_lpc.h	121;"	d
+EPSTAT_ST	.\inc\usbhw_lpc.h	119;"	d
+EPSTAT_STP	.\inc\usbhw_lpc.h	120;"	d
+EP_CND_ST	.\inc\usbhw_lpc.h	130;"	d
+EP_DA	.\inc\usbhw_lpc.h	128;"	d
+EP_FAST	.\inc\usbhw_lpc.h	53;"	d
+EP_RF_MO	.\inc\usbhw_lpc.h	129;"	d
+EP_RLZED	.\inc\usbhw_lpc.h	60;"	d
+EP_SLOW	.\inc\usbhw_lpc.h	54;"	d
+EP_ST	.\inc\usbhw_lpc.h	127;"	d
+EP_STATUS_DATA	.\inc\usbapi.h	48;"	d
+EP_STATUS_ERROR	.\inc\usbapi.h	51;"	d
+EP_STATUS_NACKED	.\inc\usbapi.h	52;"	d
+EP_STATUS_SETUP	.\inc\usbapi.h	50;"	d
+EP_STATUS_STALLED	.\inc\usbapi.h	49;"	d
+ERR_INT	.\inc\usbhw_lpc.h	61;"	d
+FALSE	.\inc\type.h	20;"	d
+FEA_ENDPOINT_HALT	.\inc\usbstruct.h	90;"	d
+FEA_REMOTE_WAKEUP	.\inc\usbstruct.h	91;"	d
+FEA_TEST_MODE	.\inc\usbstruct.h	92;"	d
+FRAME	.\inc\usbhw_lpc.h	52;"	d
+FlagStatus	.\inc\type.h	/^typedef enum {RESET = 0, SET = !RESET} FlagStatus, ITStatus;$/;"	t	typeref:enum:__anon1
+FunctionalState	.\inc\type.h	/^typedef enum {DISABLE = 0, ENABLE = !DISABLE} FunctionalState;$/;"	t	typeref:enum:__anon2
+GET_DESC_INDEX	.\inc\usbstruct.h	118;"	d
+GET_DESC_TYPE	.\inc\usbstruct.h	117;"	d
+HID_GET_IDLE	.\inc\usbstruct.h	83;"	d
+HID_GET_PROTOCOL	.\inc\usbstruct.h	84;"	d
+HID_GET_REPORT	.\inc\usbstruct.h	82;"	d
+HID_SET_IDLE	.\inc\usbstruct.h	86;"	d
+HID_SET_PROTOCOL	.\inc\usbstruct.h	87;"	d
+HID_SET_REPORT	.\inc\usbstruct.h	85;"	d
+HandleStdDeviceReq	.\src\usbstdreq.c	/^static BOOL HandleStdDeviceReq(TSetupPacket *pSetup, int *piLen, U8 **ppbData)$/;"	f	file:
+HandleStdEndPointReq	.\src\usbstdreq.c	/^static BOOL HandleStdEndPointReq(TSetupPacket	*pSetup, int *piLen, U8 **ppbData)$/;"	f	file:
+HandleStdInterfaceReq	.\src\usbstdreq.c	/^static BOOL HandleStdInterfaceReq(TSetupPacket	*pSetup, int *piLen, U8 **ppbData)$/;"	f	file:
+HandleUsbReset	.\src\usbinit.c	/^static void HandleUsbReset(U8 bDevStatus)$/;"	f	file:
+IDX2EP	.\src\usbhw_lpc.c	96;"	d	file:
+INACK_BI	.\inc\usbapi.h	65;"	d
+INACK_BO	.\inc\usbapi.h	66;"	d
+INACK_CI	.\inc\usbapi.h	61;"	d
+INACK_CO	.\inc\usbapi.h	62;"	d
+INACK_II	.\inc\usbapi.h	63;"	d
+INACK_IO	.\inc\usbapi.h	64;"	d
+INAK_BI	.\inc\usbhw_lpc.h	104;"	d
+INAK_BO	.\inc\usbhw_lpc.h	105;"	d
+INAK_CI	.\inc\usbhw_lpc.h	100;"	d
+INAK_CO	.\inc\usbhw_lpc.h	101;"	d
+INAK_II	.\inc\usbhw_lpc.h	102;"	d
+INAK_IO	.\inc\usbhw_lpc.h	103;"	d
+INTF_DESC_bAlternateSetting	.\src\usbstdreq.c	67;"	d	file:
+ITStatus	.\inc\type.h	/^typedef enum {RESET = 0, SET = !RESET} FlagStatus, ITStatus;$/;"	t	typeref:enum:__anon1
+LED_0	.\src\usbhw_lpc.c	62;"	d	file:
+LED_1	.\src\usbhw_lpc.c	63;"	d	file:
+LED_2	.\src\usbhw_lpc.c	64;"	d	file:
+LED_3	.\src\usbhw_lpc.c	65;"	d	file:
+LED_4	.\src\usbhw_lpc.c	66;"	d	file:
+LED_5	.\src\usbhw_lpc.c	67;"	d	file:
+LED_6	.\src\usbhw_lpc.c	68;"	d	file:
+LED_7	.\src\usbhw_lpc.c	69;"	d	file:
+LOG_ENDPOINT	.\inc\usbhw_lpc.h	72;"	d
+MAX	.\inc\lpcusb_type.h	65;"	d
+MAX_CONTROL_SIZE	.\src\usbcontrol.c	62;"	d	file:
+MAX_DESC_HANDLERS	.\src\usbstdreq.c	54;"	d	file:
+MAX_PACKET_SIZE0	.\inc\usbapi.h	41;"	d
+MAX_REQ_HANDLERS	.\src\usbcontrol.c	63;"	d	file:
+MIN	.\inc\lpcusb_type.h	64;"	d
+NO_LEDS	.\src\usbhw_lpc.c	60;"	d	file:
+NULL	.\inc\type.h	16;"	d
+OTG_CLK_CTRL	.\inc\usbhw_lpc.h	41;"	d
+OTG_CLK_STAT	.\inc\usbhw_lpc.h	42;"	d
+PFV	.\inc\type.h	/^typedef void (*PFV)(void);$/;"	t
+PID_ERR	.\inc\usbhw_lpc.h	133;"	d
+PKT_LNGTH	.\inc\usbhw_lpc.h	64;"	d
+PKT_LNGTH_MASK	.\inc\usbhw_lpc.h	65;"	d
+PKT_RDY	.\inc\usbhw_lpc.h	67;"	d
+RD_EN	.\inc\usbhw_lpc.h	70;"	d
+REQTYPE_DIR_TO_DEVICE	.\inc\usbstruct.h	55;"	d
+REQTYPE_DIR_TO_HOST	.\inc\usbstruct.h	56;"	d
+REQTYPE_GET_DIR	.\inc\usbstruct.h	51;"	d
+REQTYPE_GET_RECIP	.\inc\usbstruct.h	53;"	d
+REQTYPE_GET_TYPE	.\inc\usbstruct.h	52;"	d
+REQTYPE_RECIP_DEVICE	.\inc\usbstruct.h	63;"	d
+REQTYPE_RECIP_ENDPOINT	.\inc\usbstruct.h	65;"	d
+REQTYPE_RECIP_INTERFACE	.\inc\usbstruct.h	64;"	d
+REQTYPE_RECIP_OTHER	.\inc\usbstruct.h	66;"	d
+REQTYPE_TYPE_CLASS	.\inc\usbstruct.h	59;"	d
+REQTYPE_TYPE_RESERVED	.\inc\usbstruct.h	61;"	d
+REQTYPE_TYPE_STANDARD	.\inc\usbstruct.h	58;"	d
+REQTYPE_TYPE_VENDOR	.\inc\usbstruct.h	60;"	d
+REQ_CLEAR_FEATURE	.\inc\usbstruct.h	70;"	d
+REQ_GET_CONFIGURATION	.\inc\usbstruct.h	75;"	d
+REQ_GET_DESCRIPTOR	.\inc\usbstruct.h	73;"	d
+REQ_GET_INTERFACE	.\inc\usbstruct.h	77;"	d
+REQ_GET_STATUS	.\inc\usbstruct.h	69;"	d
+REQ_SET_ADDRESS	.\inc\usbstruct.h	72;"	d
+REQ_SET_CONFIGURATION	.\inc\usbstruct.h	76;"	d
+REQ_SET_DESCRIPTOR	.\inc\usbstruct.h	74;"	d
+REQ_SET_FEATURE	.\inc\usbstruct.h	71;"	d
+REQ_SET_INTERFACE	.\inc\usbstruct.h	78;"	d
+REQ_SYNCH_FRAME	.\inc\usbstruct.h	79;"	d
+RESET	.\inc\type.h	/^typedef enum {RESET = 0, SET = !RESET} FlagStatus, ITStatus;$/;"	e	enum:__anon1
+RST	.\inc\usbhw_lpc.h	112;"	d
+RxENDPKT	.\inc\usbhw_lpc.h	58;"	d
+SET	.\inc\type.h	/^typedef enum {RESET = 0, SET = !RESET} FlagStatus, ITStatus;$/;"	e	enum:__anon1
+SUS	.\inc\usbhw_lpc.h	110;"	d
+SUS_CH	.\inc\usbhw_lpc.h	111;"	d
+Setup	.\src\usbcontrol.c	/^static TSetupPacket		Setup;	\/**< setup packet *\/$/;"	v	file:
+StallControlPipe	.\src\usbcontrol.c	/^static void StallControlPipe(U8 bEPStat)$/;"	f	file:
+TFnDevIntHandler	.\inc\usbapi.h	/^typedef void (TFnDevIntHandler)	(U8 bDevStatus);$/;"	t
+TFnEPIntHandler	.\inc\usbapi.h	/^typedef void (TFnEPIntHandler)	(U8 bEP, U8 bEPStatus);$/;"	t
+TFnFrameHandler	.\inc\usbapi.h	/^typedef void (TFnFrameHandler)(U16 wFrame);$/;"	t
+TFnGetDescriptor	.\inc\usbapi.h	/^typedef BOOL (TFnGetDescriptor)(U16 wTypeIndex, U16 wLangID, int *piLen, U8 **ppbData);$/;"	t
+TFnHandleRequest	.\inc\usbapi.h	/^typedef BOOL (TFnHandleRequest)(TSetupPacket *pSetup, int *piLen, U8 **ppbData);$/;"	t
+TGL_ERR	.\inc\usbhw_lpc.h	140;"	d
+TIMEOUT	.\inc\usbhw_lpc.h	136;"	d
+TRUE	.\inc\type.h	24;"	d
+TSetupPacket	.\inc\usbstruct.h	/^} TSetupPacket;$/;"	t	typeref:struct:__anon3
+TUSBDescHeader	.\inc\usbstruct.h	/^} TUSBDescHeader;$/;"	t	typeref:struct:__anon4
+TxENDPKT	.\inc\usbhw_lpc.h	59;"	d
+U16	.\inc\lpcusb_type.h	/^typedef unsigned short int	U16;	\/**< unsigned 16-bit *\/$/;"	t
+U32	.\inc\lpcusb_type.h	/^typedef unsigned int		U32;	\/**< unsigned 32-bit *\/$/;"	t
+U8	.\inc\lpcusb_type.h	/^typedef unsigned char		U8;		\/**< unsigned 8-bit *\/$/;"	t
+UEPKT	.\inc\usbhw_lpc.h	134;"	d
+USBGetDescriptor	.\src\usbstdreq.c	/^BOOL USBGetDescriptor(U16 wTypeIndex, U16 wLangID, int *piLen, U8 **ppbData)$/;"	f
+USBHandleControlTransfer	.\src\usbcontrol.c	/^void USBHandleControlTransfer(U8 bEP, U8 bEPStat)$/;"	f
+USBHandleStandardRequest	.\src\usbstdreq.c	/^BOOL USBHandleStandardRequest(TSetupPacket	*pSetup, int *piLen, U8 **ppbData)$/;"	f
+USBHwCmd	.\src\usbhw_lpc.c	/^static void USBHwCmd(U8 bCmd)$/;"	f	file:
+USBHwCmdRead	.\src\usbhw_lpc.c	/^static U8 USBHwCmdRead(U8 bCmd)$/;"	f	file:
+USBHwCmdWrite	.\src\usbhw_lpc.c	/^static void USBHwCmdWrite(U8 bCmd, U16 bData)$/;"	f	file:
+USBHwConfigDevice	.\src\usbhw_lpc.c	/^void USBHwConfigDevice(BOOL fConfigured)$/;"	f
+USBHwConnect	.\src\usbhw_lpc.c	/^void USBHwConnect(BOOL fConnect)$/;"	f
+USBHwEPConfig	.\src\usbhw_lpc.c	/^void USBHwEPConfig(U8 bEP, U16 wMaxPacketSize)$/;"	f
+USBHwEPEnable	.\src\usbhw_lpc.c	/^static void USBHwEPEnable(int idx, BOOL fEnable)$/;"	f	file:
+USBHwEPGetStatus	.\src\usbhw_lpc.c	/^U8	USBHwEPGetStatus(U8 bEP)$/;"	f
+USBHwEPRead	.\src\usbhw_lpc.c	/^int USBHwEPRead(U8 bEP, U8 *pbBuf, int iMaxLen)$/;"	f
+USBHwEPRealize	.\src\usbhw_lpc.c	/^static void USBHwEPRealize(int idx, U16 wMaxPSize)$/;"	f	file:
+USBHwEPStall	.\src\usbhw_lpc.c	/^void USBHwEPStall(U8 bEP, BOOL fStall)$/;"	f
+USBHwEPWrite	.\src\usbhw_lpc.c	/^int USBHwEPWrite(U8 bEP, U8 *pbBuf, int iLen)$/;"	f
+USBHwISR	.\src\usbhw_lpc.c	/^void USBHwISR(void)$/;"	f
+USBHwInit	.\src\usbhw_lpc.c	/^BOOL USBHwInit(void)$/;"	f
+USBHwNakIntEnable	.\src\usbhw_lpc.c	/^void USBHwNakIntEnable(U8 bIntBits)$/;"	f
+USBHwRegisterDevIntHandler	.\src\usbhw_lpc.c	/^void USBHwRegisterDevIntHandler(TFnDevIntHandler *pfnHandler)$/;"	f
+USBHwRegisterEPIntHandler	.\src\usbhw_lpc.c	/^void USBHwRegisterEPIntHandler(U8 bEP, TFnEPIntHandler *pfnHandler)$/;"	f
+USBHwRegisterFrameHandler	.\src\usbhw_lpc.c	/^void USBHwRegisterFrameHandler(TFnFrameHandler *pfnHandler)$/;"	f
+USBHwSetAddress	.\src\usbhw_lpc.c	/^void USBHwSetAddress(U8 bAddr)$/;"	f
+USBInit	.\src\usbinit.c	/^BOOL USBInit(void)$/;"	f
+USBReEP	.\inc\usbhw_lpc.h	40;"	d
+USBRegisterCustomReqHandler	.\src\usbstdreq.c	/^void USBRegisterCustomReqHandler(TFnHandleRequest *pfnHandler)$/;"	f
+USBRegisterDescriptors	.\src\usbstdreq.c	/^void USBRegisterDescriptors(const U8 *pabDescriptors)$/;"	f
+USBRegisterRequestHandler	.\src\usbcontrol.c	/^void USBRegisterRequestHandler(int iType, TFnHandleRequest *pfnHandler, U8 *pbDataStore)$/;"	f
+USBSetConfiguration	.\src\usbstdreq.c	/^static BOOL USBSetConfiguration(U8 bConfigIndex, U8 bAltSetting)$/;"	f	file:
+USB_INT_REQ_DMA	.\inc\usbhw_lpc.h	47;"	d
+USB_INT_REQ_HP	.\inc\usbhw_lpc.h	46;"	d
+USB_INT_REQ_LP	.\inc\usbhw_lpc.h	45;"	d
+USB_need_clock	.\inc\usbhw_lpc.h	48;"	d
+WORD	.\inc\type.h	/^typedef unsigned short WORD;$/;"	t
+WR_EN	.\inc\usbhw_lpc.h	71;"	d
+Wait4DevInt	.\src\usbhw_lpc.c	/^static void Wait4DevInt(U32 dwIntr)$/;"	f	file:
+_HandleRequest	.\src\usbcontrol.c	/^static BOOL _HandleRequest(TSetupPacket *pSetup, int *piLen, U8 **ppbData)$/;"	f	file:
+_LPCUSB_TYPE_H_	.\inc\lpcusb_type.h	41;"	d
+_USBSTRUCT_H_	.\inc\usbstruct.h	34;"	d
+__TYPE_H__	.\inc\type.h	13;"	d
+_apfnEPIntHandlers	.\src\usbhw_lpc.c	/^static TFnEPIntHandler	*_apfnEPIntHandlers[16];$/;"	v	file:
+_pfnDevIntHandler	.\src\usbhw_lpc.c	/^static TFnDevIntHandler *_pfnDevIntHandler = NULL;$/;"	v	file:
+_pfnFrameHandler	.\src\usbhw_lpc.c	/^static TFnFrameHandler	*_pfnFrameHandler = NULL;$/;"	v	file:
+abStdReqData	.\src\usbinit.c	/^static U8	abStdReqData[8];$/;"	v	file:
+apbDataStore	.\src\usbcontrol.c	/^static U8				*apbDataStore[4] = {NULL, NULL, NULL, NULL};$/;"	v	file:
+apfnReqHandlers	.\src\usbcontrol.c	/^static TFnHandleRequest *apfnReqHandlers[4] = {NULL, NULL, NULL, NULL};$/;"	v	file:
+bConfiguration	.\src\usbstdreq.c	/^static U8				bConfiguration = 0;$/;"	v	file:
+bDescriptorType	.\inc\usbstruct.h	/^	U8	bDescriptorType;	\/**< descriptor type *\/$/;"	m	struct:__anon4
+bLength	.\inc\usbstruct.h	/^	U8	bLength;			\/**< descriptor length *\/$/;"	m	struct:__anon4
+bRequest	.\inc\usbstruct.h	/^	U8	bRequest;				\/**< specific request *\/$/;"	m	struct:__anon3
+bmRequestType	.\inc\usbstruct.h	/^	U8	bmRequestType;			\/**< characteristics of the specific request *\/$/;"	m	struct:__anon3
+iLen	.\src\usbcontrol.c	/^static int				iLen;		\/**< total length of control transfer *\/$/;"	v	file:
+iResidue	.\src\usbcontrol.c	/^static int				iResidue;	\/**< remaining bytes in buffer *\/$/;"	v	file:
+pabDescrip	.\src\usbstdreq.c	/^static const U8			*pabDescrip = NULL;$/;"	v	file:
+pbData	.\src\usbcontrol.c	/^static U8				*pbData;	\/**< pointer to data buffer *\/$/;"	v	file:
+pfnHandleCustomReq	.\src\usbstdreq.c	/^static TFnHandleRequest	*pfnHandleCustomReq = NULL;$/;"	v	file:
+wIndex	.\inc\usbstruct.h	/^	U16	wIndex;					\/**< request specific parameter *\/$/;"	m	struct:__anon3
+wLength	.\inc\usbstruct.h	/^	U16	wLength;				\/**< length of data transfered in data phase *\/$/;"	m	struct:__anon3
+wValue	.\inc\usbstruct.h	/^	U16	wValue;					\/**< request specific parameter *\/$/;"	m	struct:__anon3
